@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "27537912442",
+    "project_id": "oralapp-f7241",
+    "storage_bucket": "oralapp-f7241.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:27537912442:android:2cde95d4be83470ddf41c3",
+        "android_client_info": {
+          "package_name": "com.example.dentalapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKfjPfxF6zFAfLJWfGwcUd3rC8zKGH-0E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
